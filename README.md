@@ -1,16 +1,15 @@
 # shop_app
 
-A new Flutter project.
+The premise of the project centers around a cross platform mobile app (Android & iOS) that allows customers to browse shop items, add them to cart, and place an order. It also allows shop owners to add new items to the store for customers to buy.
 
-## Getting Started
+# Technologies Used
+Dart
+Flutter SDK (Android & iOS)
+Firebase Realtime Database
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Learning Objectives Achieved
+State Management using the Provider pattern
+Screen/Route Navigation
+HTTP Requests
+User Authentication with Firebase
+Screen Animations
